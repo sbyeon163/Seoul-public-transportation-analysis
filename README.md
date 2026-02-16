@@ -15,7 +15,7 @@
 
 ### **2. 분석 프로세스 (Workflow)**
 
-#### **Phase 1: 데이터 전처리 (scripts/preprocessing.ipynb)**
+#### **Phase 1: 데이터 전처리 (notebooks/preprocessing.ipynb)**
 
 - 데이터 정제: 서울교통공사 승하차 인원 데이터와 지하철 역내 시설(에스컬레이터, 엘리베이터) 현황 데이터 결합.
 
@@ -23,7 +23,7 @@
 
 - 불균형 해소: 역별 이용객 편차를 정규화하여 분석의 객관성 확보.
 
-#### **Phase 2: 통계적 가설 검정 (scripts/analysis.ipynb)**
+#### **Phase 2: 통계적 가설 검정 (notebooks/analysis.ipynb)**
 
 - **가설 1: "출근 시간대(7-9시) 노인승객 지하철 이용량은 낮을 것이다.."**
 
